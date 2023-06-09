@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "coa": "^2.1.1",
-    "event-source-polyfill": "^1.0.26",
+    "event-source-polyfill": "^1.0.28",
     "ua-parser-js": "^1.0.0",
     "vibranced": "^1.8.6"
   }
